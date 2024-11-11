@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Suguru Ohashi 👋
+A Full Stack Developer based in Vancouver with 4+ years of experience. I'm skilled in Java, Spring Boot, Angular, TypeScript, JavaScript, PostgreSQL and REST APIs. I enjoy building web applications and solving complex technical challenges.
 
-<!--
-**goothrough/goothrough** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Technologies & Tools
+- **Languages**: Java, TypeScript
+- **Frameworks**: Spring Boot, Angular
+- **Databases**: PostgreSQL, MySQL, Firebase Realtime Database
+- **TestingFrameworks**: JUnit, JMockit, DBUnit, Jasmine/Karma
+- **CloudService**: AWS (Lambda, API Gateway, EventBridge, S3, SNS, SQS, Cognito, EC, CodeCommit), Firebase
+- **Others**: Git, Jira, Confluence
 
-Here are some ideas to get you started:
+## 🌱 Current Focus
+- Enhancing my skills in full stack development and learning new technologies
+- Building a portfolio of projects showcasing my experience in frontend and backend development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Get in Touch
+- [LinkedIn](https://www.linkedin.com/in/suguru-ohashi-410165231/)
