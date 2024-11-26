@@ -4,7 +4,7 @@ A Full Stack Developer based in Vancouver with 4+ years of experience. I'm skill
 ## 🔧 Technologies & Tools
 - **Languages**: Java, TypeScript
 - **Frameworks**: Spring Boot, Angular
-- **Databases**: PostgreSQL, MySQL, Firebase Realtime Database
+- **Databases**: PostgreSQL, MySQL, Firestore
 - **TestingFrameworks**: JUnit, JMockit, DBUnit, Jasmine/Karma
 - **CloudService**: AWS (Lambda, API Gateway, EventBridge, S3, SNS, SQS, Cognito, EC, CodeCommit), Firebase
 - **Others**: Git, Jira, Confluence
