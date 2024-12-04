@@ -1,5 +1,5 @@
 # Hi, I'm Suguru Ohashi 👋
-A Full Stack Developer based in Vancouver with 4+ years of experience. I'm skilled in Java, Spring Boot, Angular, TypeScript, JavaScript, PostgreSQL and REST APIs. I enjoy building web applications and solving complex technical challenges.
+A Full Stack Developer based in Vancouver skilled in Java, Spring Boot, Angular, TypeScript, SQL and REST APIs. I enjoy building web applications and solving complex technical challenges.
 
 ## 🔧 Technologies & Tools
 - **Languages**: Java, TypeScript
