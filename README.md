@@ -6,7 +6,7 @@ A Full Stack Developer based in Vancouver skilled in Java, Spring Boot, Angular,
 - **Frameworks**: Spring Boot, Angular
 - **Databases**: PostgreSQL, MySQL, Firestore
 - **TestingFrameworks**: JUnit, JMockit, DBUnit, Jasmine/Karma
-- **CloudService**: AWS (Lambda, API Gateway, EventBridge, S3, SNS, SQS, Cognito, EC, CodeCommit), Firebase
+- **CloudService**: AWS (Lambda, API Gateway, EventBridge, S3, SNS, SQS, Cognito, EC2, CodeCommit), Firebase
 - **Others**: Git, Jira, Confluence
 
 ## 🌱 Current Focus
